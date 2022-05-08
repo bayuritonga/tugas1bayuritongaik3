@@ -1,4 +1,4 @@
 <?php
-require("NoFile.php");
+include("NoFile.php");
 echo "Hello World!";
 ?>
