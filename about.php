@@ -1,5 +1,5 @@
 <?php
-include("menu.php");
+include("menu.html");
 ?>
 <title>Modularitas</title>
 <p>Ini adalah halaman About</p>
