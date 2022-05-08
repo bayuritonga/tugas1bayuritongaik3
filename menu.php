@@ -9,7 +9,7 @@
 	<a href="about.php">About</a>
 	<a href="link.php">Link</a>
 	<a href="contact.php">Contact</a>
-	<a href="cekinclude.php">Include</a>
+	<a href="new.php">Include</a>
 	<a href="cekrequire.php">Require</a>
 </body>
 </html>
