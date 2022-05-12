@@ -5,6 +5,7 @@
 	<title>Modularitas</title>
 </head>
 <body>
+	<h1>Tugas 1 Bayu Surbana Ritonga</h1>
 	<a href="index.php">Home</a>
 	<a href="about.php">About</a>
 	<a href="link.php">Link</a>
